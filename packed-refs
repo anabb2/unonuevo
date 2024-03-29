@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+f4ab881e9197f40254777f996949923b5e473788 refs/remotes/origin/csemken-otree-3
+6ae0d73e5244af8a3d1007cdf07e22b45fe02124 refs/remotes/origin/devel
+7790683fa67608196860ace1cd5b541607a0fc96 refs/remotes/origin/master
+977d9b5c3e61da6c4b6796db8dde37576e25dd83 refs/tags/v1.0.0
+^e2d90c83daaafb50b00415ef2f8a43a29edf11f8
+677e5a012942edee2f22debbba9ac1fa9db23723 refs/tags/v1.1.0
+^15824c3821ddbe20dad34fa9f6274c4463ba95d9
+9c024b1fbfbc3d4906e03db1235a2ed657dfe0b6 refs/tags/v1.1.1
+^ec5f7cd34bbd28eac64a5290f6397b34e0a5630e
