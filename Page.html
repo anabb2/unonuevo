@@ -1,20 +1,8 @@
-{% extends "global/Page.html" %}
-{% load otree %}
+{% extends "otree/Page.html" %}
+{% load otree static %}
 
-{# Implicit Association Test IAT experiment #}
-{# Base page styles for all IAT pages #}
-{# November 2019, Markus Konrad <markus.konrad@wzb.eu> #}
+{% block global_styles  %}
+{% endblock %}
 
-{% block app_styles %}
-
-<style>
-
-span.key {
-    font-family: monospace;
-    font-weight: bold;
-    font-size: 1.2em;
-}
-
-</style>
-
+{% block global_scripts  %}
 {% endblock %}
